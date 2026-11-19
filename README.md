@@ -77,6 +77,12 @@
 - 模块免费使用，赞赏完全自愿。
 - 适配范围见本页。虎牙版本更新后，部分功能可能需要重新适配，欢迎在讨论组反馈。
 
+## 赞助打赏
+
+如果模块对你有帮助，可以用微信扫描下方赞赏码。谢谢支持。
+
+<a href="https://raw.githubusercontent.com/Xposed-Modules-Repo/io.github.saycm.huyaplus/main/docs/assets/wechat-appreciation.png"><img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/io.github.saycm.huyaplus/main/docs/assets/wechat-appreciation.png" width="240" alt="微信赞赏码"></a>
+
 ## 许可证
 
 本项目采用 [MIT License](LICENSE)。
