@@ -5,7 +5,7 @@
 面向虎牙直播的 LSPosed 模块，提供广告过滤、默认清晰度和每日任务。
 
 [![LSPosed Module](https://img.shields.io/badge/LSPosed-Module-0969da)](https://github.com/Xposed-Modules-Repo/io.github.saycm.huyaplus/releases)
-[![GitHub 源码](https://img.shields.io/badge/GitHub-%E6%BA%90%E7%A0%81-24292f)](https://github.com/saycm/huya-ad-skip)
+[![GitHub 源码](https://img.shields.io/badge/GitHub-%E6%BA%90%E7%A0%81-24292f)](https://github.com/saycm/huyaplus)
 [![Telegram 频道](https://img.shields.io/badge/Telegram-%E9%A2%91%E9%81%93-0969da)](https://t.me/+Gdwx4F3flrwzYzE1)
 
 [![最新版本](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.saycm.huyaplus?label=release)](https://github.com/Xposed-Modules-Repo/io.github.saycm.huyaplus/releases/latest)
